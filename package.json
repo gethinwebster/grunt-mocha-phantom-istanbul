@@ -29,7 +29,7 @@
     "test": "./node_modules/.bin/grunt test"
   },
   "dependencies": {
-    "grunt-lib-phantomjs": "~0.4",
+    "grunt-lib-phantomjs": "gethinwebster/grunt-lib-phantomjs",
     "mocha": "~1.18",
     "lodash": "~2.3.0",
     "istanbul": "~0.2.3"
